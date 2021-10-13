@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DataBettyLBRB
 - 👀 I’m interested in learning, python, data, ETL
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ... open to suggestions
 - 📫 How to reach me: bettychitty@outlook.com
 
